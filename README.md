@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # fashion-recommender
 
 The fashion recommender app is an innovative solution designed to provide personalized fashion suggestions to users based on their preferences and style choices. Utilizing the power of machine learning, the app analyzes user input to recommend outfits, accessories, and styles that align with the user's taste. Deployed on Streamlit, this app offers an intuitive and interactive user interface, making it easy for users to explore and receive fashion recommendations tailored to their unique preferences. <br><br>
@@ -18,9 +18,6 @@ The fashion recommender app is an innovative solution designed to provide person
 
 **Screenshots:**
 
-![image](https://github.com/jeetchoudhari/fashion-recommender/assets/41011755/95a665c1-a569-4481-975c-2968d805bebe)
 
-![image](https://github.com/jeetchoudhari/fashion-recommender/assets/41011755/0f4587c2-3591-4668-8280-9a57bc0b9a5a)
-=======
-# FashionMatch-AI
->>>>>>> 5b65dd5588ac33d828d077c861c9b4e66b1362da
+
+
